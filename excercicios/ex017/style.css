@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+main { 
+    background-color:rgba(00,200,00,40%);
+    border-radius: 2%;
+    margin: auto;
+    padding: 20px;
+    box-shadow:4px 4px 0px rgba(0, 200, 0, 0.486);
+    width: 600px;
+}
+h2 {
+    color: #1f7021;
+    text-shadow: 0.3px 0.3px 0px #1F7022;
+    font: 10px;
+}
+h1 {
+    font-size: 2.6em;
+    text-align:center;
+    color: rgb(2, 116, 2)
+    
+}
+p {
+    font: italic 1.1em "work sans",sans-serif;
+}
+
+
+
